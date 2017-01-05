@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scens/Mine.unity
+  isLoaded: 1
+  isActive: 1
